@@ -35,7 +35,7 @@ This package supports the **2025-03-26** version of the Model Context Protocol.
 Install the package via Composer:
 
 ```bash
-composer require php-mcp/laravel
+composer require php-mcp/laravel:^3.0 -W
 ```
 
 Publish the configuration file:
